@@ -18,8 +18,8 @@ pip install mpv
 
 pkg install git 
 
-git clone 
+git clone https://github.com/Projeckerror/Downloadmusic
 
-cd
+cd Downloadmusic
 
 bash Audio1.sh
