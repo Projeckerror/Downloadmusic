@@ -4,9 +4,9 @@
 # Install
 pkg update & pkg upgrade
 
-pkg python
+pkg install python
 
-pkg python2
+pkg install python2
 
 pkg install figlet
 
